@@ -97,7 +97,7 @@ The UML of the Flyweight pattern starts with a Client class. The Client is what 
 
 ## Code C++ /Java / Javascript
 
-To refer this pattern's code, we can read the [source code of Flyweight pattern on Github](https://github.com/DucManhPhan/Design-Pattern/tree/master/Structural-Pattern/Flyweight-pattern).
+To refer this pattern's code, we can read the [source code of Flyweight pattern on Github](https://github.com/gamethapcam/Design-Pattern/tree/master/Structural-Pattern/Flyweight-pattern).
 
 <br>
 

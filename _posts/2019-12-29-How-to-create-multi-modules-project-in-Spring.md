@@ -128,7 +128,7 @@ Let's get started.
 
         - Refer sample:
 
-            [https://github.com/DucManhPhan/J2EE/tree/master/src/libs/multi-modules-project/parent-project](https://github.com/DucManhPhan/J2EE/tree/master/src/libs/multi-modules-project/parent-project)
+            [https://github.com/gamethapcam/J2EE/tree/master/src/libs/multi-modules-project/parent-project](https://github.com/gamethapcam/J2EE/tree/master/src/libs/multi-modules-project/parent-project)
 
 <br>
 

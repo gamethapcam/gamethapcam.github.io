@@ -305,7 +305,7 @@ All incoming requests come with a event handler and call back information. Reque
 
 When the handler function is complete, one of thread from pool collect the response and pass it to the call back function.
 
-To understanding about event loop, we can read about article [Understanding about Event Loop in Node.js](https://ducmanhphan.github.io/2020-01-12-Understanding-about-event-loop-in-Node.js/).
+To understanding about event loop, we can read about article [Understanding about Event Loop in Node.js](https://gamethapcam.github.io/2020-01-12-Understanding-about-event-loop-in-Node.js/).
 
 In Spring WebFlux, we call reactive APIs/functions that return monos and fluxes and your controllers will return monos and fluxes. When you invoke an API that returns a mono or a flux, it will return immediately. The results of the function call will be delivered to you through the mono or flux when they become available.
 

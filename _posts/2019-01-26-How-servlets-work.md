@@ -5,7 +5,7 @@ bigimg: /img/image-header/home-office-1.jpg
 tags: [Servlet]
 ---
 
-Beside understanding [how JSP works](https://DucManhPhan.github.io/2019-01-25-How-jsp-works), we will still need to understand how Servlet works in the server-side. It also helps you delve deeper into Java web programming, especially Spring MVC, Boot.
+Beside understanding [how JSP works](https://gamethapcam.github.io/2019-01-25-How-jsp-works), we will still need to understand how Servlet works in the server-side. It also helps you delve deeper into Java web programming, especially Spring MVC, Boot.
 
 In this article, we will find out about Servlet and comparing it with CGI. Almost information is referenced from this [link]().
 

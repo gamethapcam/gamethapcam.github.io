@@ -120,7 +120,7 @@ This makes it possible to create new operations independently from the classes o
 
 ## Code C++/Java
 
-To refer this pattern's code, we can read this [Visitor pattern on Github](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/visitor-pattern/src/Java).
+To refer this pattern's code, we can read this [Visitor pattern on Github](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/visitor-pattern/src/Java).
 
 
 <br>

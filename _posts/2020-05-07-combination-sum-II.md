@@ -46,7 +46,7 @@ A solution set is:
 
 ## Using backtracking algorithm
 
-The solution of this problem is as same as the [Combination Sum](https://ducmanhphan.github.io/2020-05-07-combination-sum/) problem. But to remove all duplicate combinations, we need to sort our array at first.
+The solution of this problem is as same as the [Combination Sum](https://gamethapcam.github.io/2020-05-07-combination-sum/) problem. But to remove all duplicate combinations, we need to sort our array at first.
 
 
 ```java

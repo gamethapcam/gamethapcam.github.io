@@ -168,15 +168,15 @@ Let's get started.
 
     To understand about SOLID principles, we can refer some articles in this blog.
 
-    - [Single Responsibility Principle](https://ducmanhphan.github.io/2020-01-17-Understanding-about-SOLID-part-1/)
+    - [Single Responsibility Principle](https://gamethapcam.github.io/2020-01-17-Understanding-about-SOLID-part-1/)
 
-    - [Open Close Principle](https://ducmanhphan.github.io/2020-01-07-Understanding-about-SOLID-part-2/)
+    - [Open Close Principle](https://gamethapcam.github.io/2020-01-07-Understanding-about-SOLID-part-2/)
 
-    - [Liskov Substitution Principle](https://ducmanhphan.github.io/2020-01-13-Understanding-about-SOLID-part-3/)
+    - [Liskov Substitution Principle](https://gamethapcam.github.io/2020-01-13-Understanding-about-SOLID-part-3/)
 
-    - [Interface Segregation Principle](https://ducmanhphan.github.io/2020-01-15-Understanding-about-SOLID-part-4)
+    - [Interface Segregation Principle](https://gamethapcam.github.io/2020-01-15-Understanding-about-SOLID-part-4)
 
-    - [Dependency Inversion Principle](https://ducmanhphan.github.io/2020-01-15-Understanding-about-SOLID-part-5/)
+    - [Dependency Inversion Principle](https://gamethapcam.github.io/2020-01-15-Understanding-about-SOLID-part-5/)
 
 <br>
 

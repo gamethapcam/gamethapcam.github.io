@@ -41,7 +41,7 @@ tags: [DDD]
 
 2. Understanding about subdomain
 
-    Using the same idea of the Divider and Conquer algorithm, Domain also need to be splitted into the multiple subdomains. It means that a large problem will be seperated into the smaller problems. But this subproblem is small enough, not too small, mainly because relied on the subdomain, we will create the corresponding [bounded contexts](https://ducmanhphan.github.io/2021-04-19-bounded-context-in-ddd), then, it may lead to some conundrums.
+    Using the same idea of the Divider and Conquer algorithm, Domain also need to be splitted into the multiple subdomains. It means that a large problem will be seperated into the smaller problems. But this subproblem is small enough, not too small, mainly because relied on the subdomain, we will create the corresponding [bounded contexts](https://gamethapcam.github.io/2021-04-19-bounded-context-in-ddd), then, it may lead to some conundrums.
     - creating multiple dto, adapter classes to transfer data between bounded contexts.
 
         It makes our packages to become messy.

@@ -27,7 +27,7 @@ Suppose that in a multithreading project, we need to create a data structure tha
 
 But according to Java memory model, we knew that corresponding each thread, there is an its own stack on RAM. From our current requirement, this data structure has to bring the characteristics of global variable and local variable. Because it needs to exist in global scope in a thread, but the other threads can't access to it. And it's also a representation of local scope, only in its stack. When a thread completely finishes its job, it automatically releases from JVM or RAM.
 
-If we define a data structure with the **static** modifier, it will be shared by the multiple threads. To avoid the race condition happens in that data structure, we will use implicit lock with synchronized key word, or explicit lock with [Reentrant lock](http://ducmanhphan.github.io/2019-12-31-Reentrant-lock-in-Java/). The drawbacks of using implicit lock or explicit lock are that the performance of an application. So, utilizing lock is not a good option.
+If we define a data structure with the **static** modifier, it will be shared by the multiple threads. To avoid the race condition happens in that data structure, we will use implicit lock with synchronized key word, or explicit lock with [Reentrant lock](http://gamethapcam.github.io/2019-12-31-Reentrant-lock-in-Java/). The drawbacks of using implicit lock or explicit lock are that the performance of an application. So, utilizing lock is not a good option.
 
 How do we deal with this problem?
 

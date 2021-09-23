@@ -125,7 +125,7 @@ So, we will have Adapter pattern, and below is UML class diagram of it.
 
 ## Code C++ /Java / Javascript
 
-To refer this pattern's code, we can read the [source code of Adapter pattern on Github](https://github.com/DucManhPhan/Design-Pattern/tree/master/Structural-Pattern/Adapter-pattern/src/Java).
+To refer this pattern's code, we can read the [source code of Adapter pattern on Github](https://github.com/gamethapcam/Design-Pattern/tree/master/Structural-Pattern/Adapter-pattern/src/Java).
 
 <br>
 

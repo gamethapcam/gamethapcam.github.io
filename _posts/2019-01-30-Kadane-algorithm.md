@@ -44,7 +44,7 @@ Below is our analysis for this problem:
 
 ## Using brute force algorithm
 
-To use brute force algorithm for this problem, we can refer this article [https://ducmanhphan.github.io/2020-02-25-Some-ways-to-use-brute-force-algorithm/](https://ducmanhphan.github.io/2020-02-25-Some-ways-to-use-brute-force-algorithm/).
+To use brute force algorithm for this problem, we can refer this article [https://gamethapcam.github.io/2020-02-25-Some-ways-to-use-brute-force-algorithm/](https://gamethapcam.github.io/2020-02-25-Some-ways-to-use-brute-force-algorithm/).
 
 The complexity of this algorithm:
 - Time complexity: O(n^3)

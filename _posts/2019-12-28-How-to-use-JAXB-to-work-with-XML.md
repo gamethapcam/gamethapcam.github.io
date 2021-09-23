@@ -258,7 +258,7 @@ There are one important thing to mention about ```JAXBContext```, ```Marshaller`
 
 ## Java code example
 
-The sample code in this section will be put in this [link](https://github.com/DucManhPhan/J2EE/tree/master/src/Utils/xml-utils).
+The sample code in this section will be put in this [link](https://github.com/gamethapcam/J2EE/tree/master/src/Utils/xml-utils).
 
 With:
 - ```@XmlRootElement```: This annotation is used at the top level class to indicate the root element in the XML document. The ```name``` attribute in the annotation is optional. If not specified, the class name is used as the root XML element in the document.

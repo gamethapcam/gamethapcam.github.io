@@ -108,7 +108,7 @@ Some problems without using Repository pattern:
 
 ## Code C++ /Java / Javascript
 
-We can refer to the [source code of Repository pattern on Github](https://ducmanhphan.github.io/2019-02-15-DAO-pattern-in-java).
+We can refer to the [source code of Repository pattern on Github](https://gamethapcam.github.io/2019-02-15-DAO-pattern-in-java).
 
 <br>
 

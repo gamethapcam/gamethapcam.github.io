@@ -90,7 +90,7 @@ The complexity of this solution:
 
 ## Using binary search
 
-Before reading about the source code, we can reference the article [How to use binary search](https://ducmanhphan.github.io/2020-03-28-How-to-use-binary-search/) to answer the question What is template I, II, III of binary search.
+Before reading about the source code, we can reference the article [How to use binary search](https://gamethapcam.github.io/2020-03-28-How-to-use-binary-search/) to answer the question What is template I, II, III of binary search.
 
 1. Using Template I of Binary Search
 

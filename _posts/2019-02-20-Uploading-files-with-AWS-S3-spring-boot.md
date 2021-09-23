@@ -22,7 +22,7 @@ In this article, we will find out about the way to upload files to AWS S3 in Spr
 ## Introduction to S3
 Before diving into this problem about uploading file into AWS S3, we need to understand about how Spring Boot support the uploading file to S3. 
 
-We can reference to the [article](https://ducmanhphan.github.io/2019-02-14-Introduction-to-AWS-S3).
+We can reference to the [article](https://gamethapcam.github.io/2019-02-14-Introduction-to-AWS-S3).
 
 We can see the following image:
 
@@ -69,7 +69,7 @@ Our source code will represented to follow the below image:
 
 - First step - Write Bean object in Configuration class
 
-    To understand why we use ```@Bean```, ```@Value```, ```@Configuration``` annotations in ```S3Config``` class, we can refer to the following [link](https://ducmanhphan.github.io/2019-01-09-Annotations-in-java).
+    To understand why we use ```@Bean```, ```@Value```, ```@Configuration``` annotations in ```S3Config``` class, we can refer to the following [link](https://gamethapcam.github.io/2019-01-09-Annotations-in-java).
 
     In config folder's ```S3Config.java```, we have:
 

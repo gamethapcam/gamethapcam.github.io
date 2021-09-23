@@ -93,7 +93,7 @@ The key idea in this pattern is to make an object (originator) itself responsibl
 
 ## Code C++/Java
 
-To understand Memento pattern, we can refer this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/memento/src/Java/basic-memento).
+To understand Memento pattern, we can refer this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/memento/src/Java/basic-memento).
 
 
 <br>

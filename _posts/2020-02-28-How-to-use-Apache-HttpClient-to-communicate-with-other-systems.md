@@ -45,7 +45,7 @@ In order to use Apache HttpClient APIs, we can add depedency into pom.xml file:
 
 ## Source code
 
-In order to understand how to implement code by using Apache HttpClient, we can check out source code in [Apache HttpClient Utils](https://github.com/DucManhPhan/J2EE/tree/master/src/Utils/apache-httpclient-utils).
+In order to understand how to implement code by using Apache HttpClient, we can check out source code in [Apache HttpClient Utils](https://github.com/gamethapcam/J2EE/tree/master/src/Utils/apache-httpclient-utils).
 
 
 <br>

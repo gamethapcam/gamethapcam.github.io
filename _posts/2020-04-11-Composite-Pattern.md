@@ -91,7 +91,7 @@ The leaf represents the leaf objects or nodes in the composition. It should be n
 
 ## Code C++ /Java / Javascript
 
-To refer this pattern's code, we can read the [source code of Composite pattern on Github](https://github.com/DucManhPhan/Design-Pattern/tree/master/Structural-Pattern/Composite-pattern).
+To refer this pattern's code, we can read the [source code of Composite pattern on Github](https://github.com/gamethapcam/Design-Pattern/tree/master/Structural-Pattern/Composite-pattern).
 
 <br>
 

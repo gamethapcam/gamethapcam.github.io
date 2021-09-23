@@ -93,7 +93,7 @@ In order to get example about this pattern, we can see the object in the followi
 
 ![](../img/design-pattern/builder-pattern/employee-builder.png)
 
-About source code, we can go to this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Creational-Pattern/builder-pattern/src/Java/Builder-Pattern).
+About source code, we can go to this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Creational-Pattern/builder-pattern/src/Java/Builder-Pattern).
 
 <br>
 

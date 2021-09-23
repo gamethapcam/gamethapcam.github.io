@@ -5,7 +5,7 @@ bigimg: /img/path.jpg
 tags: [Optimization, Memory management]
 ---
 
-In the previous article, we had learnt about [Cache memory with Locality of Reference](https://ducmanhphan.github.io/2018-09-20-Locality-of-Reference/). Now, we will utilize the concept of locality to optimize some code in reality.
+In the previous article, we had learnt about [Cache memory with Locality of Reference](https://gamethapcam.github.io/2018-09-20-Locality-of-Reference/). Now, we will utilize the concept of locality to optimize some code in reality.
 
 Before starting optimizing the code, have you remembered that how many types are there in locality of reference?
 

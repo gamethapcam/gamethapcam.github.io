@@ -225,7 +225,7 @@ Let's get started.
     | Proxool     | http://proxool.sourceforge.net/         | JDBC Pooling Wrapper       |
     | HikariCP    |                                         |                            |
 
-    In order to configure some external connection pools in our Hibernate project, we can reference to [our project](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Spring/Hibernate/connection-pool-hibernate).
+    In order to configure some external connection pools in our Hibernate project, we can reference to [our project](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Spring/Hibernate/connection-pool-hibernate).
 
 3. Setting **validation-query** and **test-on-borrow** properties to DataSource
 

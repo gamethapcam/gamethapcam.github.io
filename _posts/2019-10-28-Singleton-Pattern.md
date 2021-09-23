@@ -108,7 +108,7 @@ Below is structure of this project. It talks about connections between databases
 
 ![](../img/design-pattern/singleton-pattern/factory-method_singleton.png)
 
-In order to implement single instance, we can refer to this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/2-combination-patterns/factory-method_singleton).
+In order to implement single instance, we can refer to this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/2-combination-patterns/factory-method_singleton).
 
 
 <br>
@@ -161,7 +161,7 @@ In order to implement single instance, we can refer to this [link](https://githu
 
 - Java
 
-    We can see source code in this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Creational-Pattern/singleton-pattern/src/Java).
+    We can see source code in this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Creational-Pattern/singleton-pattern/src/Java).
 
     Notes:
     - In multithreading, use ```synchronized``` in ```getInstance()``` method, it can decrease system performance by a factor of 100.

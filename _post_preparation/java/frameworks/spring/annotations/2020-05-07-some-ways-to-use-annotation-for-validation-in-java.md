@@ -25,9 +25,9 @@ Normally, the step that validate all our inputs is very crucial in our code. It 
 
 In the reality, we have multiple ways to overcome this problem. Belows are some articles that we need to read before using annotations.
 
-- [Clean code with validate input](https://ducmanhphan.github.io/2019-12-22-Clean-code-with-validate-input/)
-- [Using frameworks for validation in Java](https://ducmanhphan.github.io/2019-12-24-Using-frameworks-for-validation-in-Java/)
-- [Working with Nulls in Java](https://ducmanhphan.github.io/2020-02-01-Working-with-Nulls-in-Java/)
+- [Clean code with validate input](https://gamethapcam.github.io/2019-12-22-Clean-code-with-validate-input/)
+- [Using frameworks for validation in Java](https://gamethapcam.github.io/2019-12-24-Using-frameworks-for-validation-in-Java/)
+- [Working with Nulls in Java](https://gamethapcam.github.io/2020-02-01-Working-with-Nulls-in-Java/)
 
 
 <br>

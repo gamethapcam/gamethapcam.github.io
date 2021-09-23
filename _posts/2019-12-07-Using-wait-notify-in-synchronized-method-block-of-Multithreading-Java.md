@@ -26,7 +26,7 @@ Let's get started.
 ## Understanding about synchronization
 Synchronization is used to prevent a block of code to be executed by more than one thread at the same time. From a technical point of view, it prevents the thread scheduler to give the hand to a thread that wants to execute the synchronized portion of code that has already been executed by another thread.
 
-In [Understanding basic concepts in Java's multithreading](http://ducmanhphan.github.io/2019-11-26-Understanding-basic-concepts-in-Java-multithreading), we talked about race condition and the solution for it. So, in this section, we will use synchronization do deal with it.
+In [Understanding basic concepts in Java's multithreading](http://gamethapcam.github.io/2019-11-26-Understanding-basic-concepts-in-Java-multithreading), we talked about race condition and the solution for it. So, in this section, we will use synchronization do deal with it.
 
 ```java
 public class Singleton {

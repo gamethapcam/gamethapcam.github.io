@@ -123,7 +123,7 @@ Belows are some steps that we need to implement in Event-Sourcing CQRS architect
 
 1. Define Command Bus pattern
 
-    To know more about how to build this pattern, we can read about the article [Command Bus pattern](https://ducmanhphan.github.io/2020-12-02-command-bus-pattern/).
+    To know more about how to build this pattern, we can read about the article [Command Bus pattern](https://gamethapcam.github.io/2020-12-02-command-bus-pattern/).
 
 2. Define Event Bus pattern
 

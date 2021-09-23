@@ -95,7 +95,7 @@ Assumed that we have an application have two light theme and dark theme, we want
 
 Utilizing abstract factory pattern for this problem we have:
 
-By C++, we can refer to this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Creational-Pattern)
+By C++, we can refer to this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Creational-Pattern)
 
 <br>
 
@@ -109,7 +109,7 @@ By C++, we can refer to this [link](https://github.com/DucManhPhan/Design-Patter
 
 - Abstract factory and Factory Method pattern.
 
-    If we want to combine Abstract factory pattern and factory method pattern, refer [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Creational-Pattern).
+    If we want to combine Abstract factory pattern and factory method pattern, refer [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Creational-Pattern).
 
 <br>
 

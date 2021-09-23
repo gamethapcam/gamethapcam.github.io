@@ -92,7 +92,7 @@ To solve the above problems, we will do some following steps:
 
 ## Code C++ / Java
 
-To refer this pattern's code, we can read this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/strategy-pattern/src/Java).
+To refer this pattern's code, we can read this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/strategy-pattern/src/Java).
 
 <br>
 

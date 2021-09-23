@@ -70,7 +70,7 @@ So, we have class diagram of this pattern:
 
 ## Code C++/Java
 
-To refer this pattern's code, we can read this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Structural-Pattern/Decorator-pattern/src/Java).
+To refer this pattern's code, we can read this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Structural-Pattern/Decorator-pattern/src/Java).
 
 <br>
 

@@ -113,7 +113,7 @@ In order to start MongoDB in command line, we need to install MongoDB applicatio
 
 Next, typing ```mongod``` to start this application.
 
-To know more about operations with MongoDB in command line, we can refer to this [link](https://ducmanhphan.github.io/2018-11-29-Some-common-implementation-with-MongoDB/#use-the-database-/-create-new-database).
+To know more about operations with MongoDB in command line, we can refer to this [link](https://gamethapcam.github.io/2018-11-29-Some-common-implementation-with-MongoDB/#use-the-database-/-create-new-database).
 
 
 ```js
@@ -135,7 +135,7 @@ db.employees.insert({"id": "512ad753f4c0b729b259d720", "name": "Clinton", "addre
 
 ## Source code for this project
 
-We can refer [webflux-webservice](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Spring/Spring-Boot/webservice-webflux).
+We can refer [webflux-webservice](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Spring/Spring-Boot/webservice-webflux).
 
 <br>
 

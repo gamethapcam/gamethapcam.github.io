@@ -40,7 +40,7 @@ tags: [MySQL]
 
 ## The comparison between PostgreSQL and MySQL
 
-To know more about these two database, we can refer to the following article [The comparison between MySQL and PostgreSQL](https://ducmanhphan.github.io/2019-05-12-The-comparison-between-MySQL-and-PostgreSQL/).
+To know more about these two database, we can refer to the following article [The comparison between MySQL and PostgreSQL](https://gamethapcam.github.io/2019-05-12-The-comparison-between-MySQL-and-PostgreSQL/).
 
 
 <br>

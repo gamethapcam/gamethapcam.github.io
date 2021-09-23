@@ -95,7 +95,7 @@ Some steps to setup for using Seasar with Eclipse:
 
     We can download ```jakarta-tomcat-5.0.26.zip.``` from this [link about Tomcat](https://archive.apache.org/dist/tomcat/tomcat-5/archive/v5.0.26-beta/bin/).
 
-    With Tomcat, we can refer to this [link](https://ducmanhphan.github.io/2019-02-18-Configure-Tomcat-for-Java-web/)
+    With Tomcat, we can refer to this [link](https://gamethapcam.github.io/2019-02-18-Configure-Tomcat-for-Java-web/)
 
 - Setup external jar files for using Seasar framework
 

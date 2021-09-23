@@ -175,7 +175,7 @@ For example:
 
     Below is the source code that calculates the maximum level of binary tree.
 
-    We use [top-down recursive version](https://ducmanhphan.github.io/2020-01-20-How-to-solve-tree-problems-recursively/) for this problem because:
+    We use [top-down recursive version](https://gamethapcam.github.io/2020-01-20-How-to-solve-tree-problems-recursively/) for this problem because:
     - the starting point is the root node.
     - we know that the level of root node is 1.
 
@@ -207,7 +207,7 @@ For example:
     - the height of root node is 2.
     - the height of 2 node is 1.
 
-    Below is the source code to calculate the height of binary tree. We will use [bottom-up recursive version](https://ducmanhphan.github.io/2020-01-20-How-to-solve-tree-problems-recursively/) because:
+    Below is the source code to calculate the height of binary tree. We will use [bottom-up recursive version](https://gamethapcam.github.io/2020-01-20-How-to-solve-tree-problems-recursively/) because:
     - if the node is null, then its height is -1.
     - the leaf node's height is 0.
     - It means that we have sufficient information about the height of the children nodes.

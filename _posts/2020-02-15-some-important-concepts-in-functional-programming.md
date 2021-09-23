@@ -267,13 +267,13 @@ Comparison between pure function and referential transparency:
 
 ## High-order function
 
-To understand more about high-order function, we can refer to [How to use High-Order function technique](https://ducmanhphan.github.io/2020-07-15-how-to-use-high-order-function-technique/).
+To understand more about high-order function, we can refer to [How to use High-Order function technique](https://gamethapcam.github.io/2020-07-15-how-to-use-high-order-function-technique/).
 
 <br>
 
 ## Currying
 
-To know more about currying, refer to [How to use currying technique](https://ducmanhphan.github.io/2020-02-10-how-to-use-currying-technique/).
+To know more about currying, refer to [How to use currying technique](https://gamethapcam.github.io/2020-02-10-how-to-use-currying-technique/).
 
 <br>
 

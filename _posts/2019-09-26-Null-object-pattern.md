@@ -83,7 +83,7 @@ In this section, we will consider the problem about abstraction of employee, suc
 ![](../img/design-pattern/null-object/Null-Object-Pattern-ex.png)
 
 
-About source code of Null Object Pattern, you can reference to this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/null-object).
+About source code of Null Object Pattern, you can reference to this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/null-object).
 
 <br>
 

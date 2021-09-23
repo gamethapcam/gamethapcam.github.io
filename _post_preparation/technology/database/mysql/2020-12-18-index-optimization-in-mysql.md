@@ -5,7 +5,7 @@ bigimg: /img/image-header/ravashing-beach.jpg
 tags: [Database]
 ---
 
-Before we dive into how optimize index in MySQL, we need to understand the basis about index of MySQL, then we can read the article [How to use indexes in MySQL](https://ducmanhphan.github.io/2020-04-18-How-to-use-indexes-in-MySQL/). Let's get started.
+Before we dive into how optimize index in MySQL, we need to understand the basis about index of MySQL, then we can read the article [How to use indexes in MySQL](https://gamethapcam.github.io/2020-04-18-How-to-use-indexes-in-MySQL/). Let's get started.
 
 <br>
 

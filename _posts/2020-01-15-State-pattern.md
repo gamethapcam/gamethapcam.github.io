@@ -122,7 +122,7 @@ Below is the State pattern approach:
 
 ## Code C++/Java
 
-With Java, we can refer to this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/state-pattern).
+With Java, we can refer to this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/state-pattern).
 
 
 <br>

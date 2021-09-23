@@ -24,7 +24,7 @@ In this article, we will learn how to use @Async annotation in Spring. Let's get
 
 @Async annotation is introduced to Spring framework with 3.0 version. When using @Async annotation with specific methods, our methods will be executed in a seperate thread. It means that **@Async** annotation is using the fire and forget pattern.
 
-To delve deeper into the fire and forget pattern, we can go to the [Improving performance of application by running processes in the background](https://ducmanhphan.github.io/2020-02-24-Improving-performance-of-application-by-running-processes-in-the-background/#the-fire-and-forget-pattern).
+To delve deeper into the fire and forget pattern, we can go to the [Improving performance of application by running processes in the background](https://gamethapcam.github.io/2020-02-24-Improving-performance-of-application-by-running-processes-in-the-background/#the-fire-and-forget-pattern).
 
 <br>
 
@@ -185,7 +185,7 @@ Belows are some steps to use **@Async** annotation in our project.
 
 ## Source code
 
-In order to understand how to implement code of using @Async annotation, we can reference [this link](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Spring/Spring-Boot/asynchronous-webservice).
+In order to understand how to implement code of using @Async annotation, we can reference [this link](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Spring/Spring-Boot/asynchronous-webservice).
 
 
 <br>

@@ -76,7 +76,7 @@ For submodules and lazy loaded submodules, the module should be used as follows:
 class MyNgModule {}
 ```
 
-In order to understand how to use it, we can refer to this [link](https://github.com/DucManhPhan/Learn-Javascript/tree/master/src/Angular/src/use-routing-module).
+In order to understand how to use it, we can refer to this [link](https://github.com/gamethapcam/Learn-Javascript/tree/master/src/Angular/src/use-routing-module).
 
 <br>
 

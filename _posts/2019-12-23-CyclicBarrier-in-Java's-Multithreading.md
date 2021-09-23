@@ -28,7 +28,7 @@ tags: [Multithreading]
 
 2. The drawback of CountDownLatch
 
-    Before jumping into **CyclicBarrier** - how it works, we need to read about the article [CountDownLatch in Java's Multithreading](https://ducmanhphan.github.io/2020-02-12-CountDownLatch-in-Java's-multithreading/).
+    Before jumping into **CyclicBarrier** - how it works, we need to read about the article [CountDownLatch in Java's Multithreading](https://gamethapcam.github.io/2020-02-12-CountDownLatch-in-Java's-multithreading/).
 
     The drawback of **CountDownLatch** is the reusable property. Because when the current count of **CountDownLatch** is equal to zero, the current count does not reset again.
 

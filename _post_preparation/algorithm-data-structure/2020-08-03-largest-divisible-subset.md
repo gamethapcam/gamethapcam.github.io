@@ -98,7 +98,7 @@ The complexity of this solution:
 - Time complexity:
 - Space complexity:
 
-To deal with this problem by using Recursion of Optimal Substructre, or Top-Down Dynamic Programming, we can refer [Longest Increase Subsequence](https://ducmanhphan.github.io/2021-01-25-longest-increase-subsequence/).
+To deal with this problem by using Recursion of Optimal Substructre, or Top-Down Dynamic Programming, we can refer [Longest Increase Subsequence](https://gamethapcam.github.io/2021-01-25-longest-increase-subsequence/).
 
 <br>
 

@@ -5,7 +5,7 @@ bigimg: /img/image-header/home-office-1.jpg
 tags: [Spring]
 ---
 
-Before you read about this article, I think that you should reference to the previous [article](https://ducmanhphan.github.io/2019-01-09-Annotations-in-java/).
+Before you read about this article, I think that you should reference to the previous [article](https://gamethapcam.github.io/2019-01-09-Annotations-in-java/).
 
 So, in this article, we will find out the inside part of the way ```@Configuration``` annotation works.
 
@@ -137,7 +137,7 @@ Now, we will answer each question:
     dispatcher.addMapping("/");
     ```
 
-    Therefore, Beans object will be created at the first time of an application. In Bean objects, we will set a scope for them, refer to the [link](https://ducmanhphan.github.io/2019-01-30-Using-@Autowired-@Bean-annotation-in-Spring).
+    Therefore, Beans object will be created at the first time of an application. In Bean objects, we will set a scope for them, refer to the [link](https://gamethapcam.github.io/2019-01-30-Using-@Autowired-@Bean-annotation-in-Spring).
 
 
 2. Second question - Where will Bean objects be contained? and What is it?
@@ -181,7 +181,7 @@ Now, we will answer each question:
 
 3. Third question - When will Bean objects be popped from something?
 
-    This queston is easy to answer. You can reference to this [link](https://ducmanhphan.github.io/2019-01-09-Annotations-in-java/).
+    This queston is easy to answer. You can reference to this [link](https://gamethapcam.github.io/2019-01-09-Annotations-in-java/).
 
 <br>
 

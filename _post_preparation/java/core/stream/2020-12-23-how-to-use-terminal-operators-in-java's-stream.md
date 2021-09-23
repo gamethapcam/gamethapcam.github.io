@@ -36,7 +36,7 @@ tags: [Functional Programming]
 
 ## Solution of the terminal operators 
 
-Before to be aware of more about the terminal operators of the Java'stream, we can read up on about the concepts of Java's stream in [Understanding about stream in Java 8](https://ducmanhphan.github.io/2019-05-27-Understanding-about-stream-in-Java-8/).
+Before to be aware of more about the terminal operators of the Java'stream, we can read up on about the concepts of Java's stream in [Understanding about stream in Java 8](https://gamethapcam.github.io/2019-05-27-Understanding-about-stream-in-Java-8/).
 
 In Java's stream, there are two types of operators:
 - Intermediate operator

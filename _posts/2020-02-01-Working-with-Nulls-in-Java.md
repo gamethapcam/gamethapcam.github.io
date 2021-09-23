@@ -313,7 +313,7 @@ To choose an annotation library, consider:
 
 ## Using the Null Object pattern
 
-In order to use Null Object pattern, we can refer the article [Null Object pattern](https://ducmanhphan.github.io/2019-09-26-Null-object-pattern/).
+In order to use Null Object pattern, we can refer the article [Null Object pattern](https://gamethapcam.github.io/2019-09-26-Null-object-pattern/).
 
 So, instead of using a null reference to represent the absence of an object, it uses an object that implements the expected interface but does nothing, hiding the details from its collaborators.
 
@@ -328,8 +328,8 @@ Some notes about Null Object pattern:
 ## Using Optional instead of Null
 
 Belows are some article we need to read:
-- [Understanding Optional in Java 8](http://ducmanhphan.github.io/2020-04-24-Understanding-Optional-in-Java-8/).
-- [Best practice for Optional in Java](http://ducmanhphan.github.io/2019-12-06-Best-practice-for-Optional-in-Java/).
+- [Understanding Optional in Java 8](http://gamethapcam.github.io/2020-04-24-Understanding-Optional-in-Java-8/).
+- [Best practice for Optional in Java](http://gamethapcam.github.io/2019-12-06-Best-practice-for-Optional-in-Java/).
 
 <br>
 

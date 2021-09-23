@@ -101,7 +101,7 @@ Command pattern has primarily four components:
 
 # Code C++/Java
 
-To refer this pattern's code, we can read this [link](https://github.com/DucManhPhan/Design-Pattern/tree/master/Behavioral-Pattern/command-pattern/src/Java).
+To refer this pattern's code, we can read this [link](https://github.com/gamethapcam/Design-Pattern/tree/master/Behavioral-Pattern/command-pattern/src/Java).
 
 
 <br>

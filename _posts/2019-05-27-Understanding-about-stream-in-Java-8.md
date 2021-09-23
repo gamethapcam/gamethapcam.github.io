@@ -336,7 +336,7 @@ Stream pipeline is the concept of chaining operations together. Stream pipeline 
 
 ## Source code
 
-In order to understand deeper about how stream runs in Java 8, check source code out on [Stream-java-8](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Core/Java%208/Stream).
+In order to understand deeper about how stream runs in Java 8, check source code out on [Stream-java-8](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Core/Java%208/Stream).
 
 <br>
 

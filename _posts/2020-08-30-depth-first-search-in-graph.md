@@ -207,7 +207,7 @@ Assuming that we have a graph that is described in a below image.
     }
     ```
 
-    The dfs in the recursive version is as same as the source code in [Preorder traversal in Binary Tree](https://ducmanhphan.github.io/2020-01-09-Preorder-traversal-in-Binary-Tree/).
+    The dfs in the recursive version is as same as the source code in [Preorder traversal in Binary Tree](https://gamethapcam.github.io/2020-01-09-Preorder-traversal-in-Binary-Tree/).
 
     Using a boolean array - **visited** to mark nodes that is iterated. It makes us do not touch it in twice times.
 

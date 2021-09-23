@@ -219,7 +219,7 @@ There are 3 annotation types:
 
 - ```@ModelAttribute``` annotation
 
-    This annotation is used to push data into View. You can refer this [link](https://ducmanhphan.github.io/2019-02-06-Some-ways-to-add-data-into-view-int-Spring) to understand deeper.
+    This annotation is used to push data into View. You can refer this [link](https://gamethapcam.github.io/2019-02-06-Some-ways-to-add-data-into-view-int-Spring) to understand deeper.
 
 - ```@GetMapping``` annotation
 

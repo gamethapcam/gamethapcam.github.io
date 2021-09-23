@@ -98,7 +98,7 @@ Belows are some ways to achieve high availability.
 
 ## Scalability
 
-To know more about scalability, we can refer to the following link [Understanding about Scalability in System Design](http://ducmanhphan.github.io/2020-02-10-Understanding-about-scaling-in-system-design).
+To know more about scalability, we can refer to the following link [Understanding about Scalability in System Design](http://gamethapcam.github.io/2020-02-10-Understanding-about-scaling-in-system-design).
 
 <br>
 

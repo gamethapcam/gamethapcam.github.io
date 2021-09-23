@@ -39,7 +39,7 @@ We can easily find some drawbacks of this architecture:
 
 ## Solution of using Kafka
 
-Our problems is as same as the problems of [Mediator pattern](https://ducmanhphan.github.io/2020-01-29-Mediator-pattern/). So, to deal with them, we will create a single application that receives metrics from all the applications and provide a server to query those metrics for any system that needs them. It's called **Metrics Pub/Sub** for queuing data.
+Our problems is as same as the problems of [Mediator pattern](https://gamethapcam.github.io/2020-01-29-Mediator-pattern/). So, to deal with them, we will create a single application that receives metrics from all the applications and provide a server to query those metrics for any system that needs them. It's called **Metrics Pub/Sub** for queuing data.
 
 ![](../img/hadoop/kafka/given-problem/a-metrics-publish-subscribe-system.png)
 

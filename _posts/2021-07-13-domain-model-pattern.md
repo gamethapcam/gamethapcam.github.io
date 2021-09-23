@@ -40,7 +40,7 @@ Drawbacks of Anemic Domain Model:
 
 - Lack of encapsulation.
 
-    To know more about encapsulation in object-oriented programming, we can refer to the following [link](https://ducmanhphan.github.io/2019-12-19-encapsulation-in-object-oriented-programming/).
+    To know more about encapsulation in object-oriented programming, we can refer to the following [link](https://gamethapcam.github.io/2019-12-19-encapsulation-in-object-oriented-programming/).
 
 - Difficult to maintain because the business (domain) logic will be used to expand in multiple layers. So when we want to add a new functionality or fix an existed feature, it is a conundrom.
 
@@ -90,7 +90,7 @@ public class Rectangle {
 }
 ```
 
-To make the above Rectangle class towards more about Domain-Driven Design, we can use [Value Object pattern](https://ducmanhphan.github.io/2020-09-02-value-object-pattern/).
+To make the above Rectangle class towards more about Domain-Driven Design, we can use [Value Object pattern](https://gamethapcam.github.io/2020-09-02-value-object-pattern/).
 
 To continue with domain model, we can learn about some new concepts in Domain-Driven Design:
 - Entity

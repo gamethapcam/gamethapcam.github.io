@@ -95,7 +95,7 @@ public int minStartValue(int[] nums) {
 
 ## Using prefix sum technique
 
-Before jump directly into source code of this section, we need to read an article about [Prefix sum](https://ducmanhphan.github.io/2019-06-30-Prefix-sum/).
+Before jump directly into source code of this section, we need to read an article about [Prefix sum](https://gamethapcam.github.io/2019-06-30-Prefix-sum/).
 
 The idea here is that we will calculate the sum of elements at specific index, then we will find the minimum sum in prefix sum array. 
 

@@ -20,7 +20,7 @@ tags: [Docker]
 
 ## Given problem
 
-Before going to this article, we can read up on the article [Understanding about Docker](https://ducmanhphan.github.io/2020-05-07-understanding-about-docker/). In that article, we can learn about how to run an image an a container.
+Before going to this article, we can read up on the article [Understanding about Docker](https://gamethapcam.github.io/2020-05-07-understanding-about-docker/). In that article, we can learn about how to run an image an a container.
 
 But if in our project, we have multiple softwares or multiple images, then when we deploy our application, we need to deploy sequentially each container. It takes so much our time and effort. To reduce the hard working time, we can use docker-compose.
 

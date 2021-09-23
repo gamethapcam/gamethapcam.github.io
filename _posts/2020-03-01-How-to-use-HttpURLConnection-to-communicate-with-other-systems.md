@@ -111,7 +111,7 @@ Let's get started.
 
 ## Source code
 
-In order to get some examples of utilizing HttpURLConnection, we can check out [HttpUrlConnectionUtils](https://github.com/DucManhPhan/J2EE/tree/master/src/Utils/httpurlconnection-utils).
+In order to get some examples of utilizing HttpURLConnection, we can check out [HttpUrlConnectionUtils](https://github.com/gamethapcam/J2EE/tree/master/src/Utils/httpurlconnection-utils).
 
 
 <br>

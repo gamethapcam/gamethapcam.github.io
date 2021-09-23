@@ -183,7 +183,7 @@ There's a style of programming called point-free programming, that is about pass
 
 ## Source code
 
-In order to see how Predicate functional interface works, we can reference to [Function functional interface](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Core/Java%208/Functional%20Interfaces/function).
+In order to see how Predicate functional interface works, we can reference to [Function functional interface](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Core/Java%208/Functional%20Interfaces/function).
 
 <br>
 

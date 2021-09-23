@@ -164,7 +164,7 @@ Because the default method of **Prediate** that returns a new **Predicate** obje
 
 ## Source code
 
-In order to see how Predicate functional interface works, we can reference to [Predicate functional interface](https://github.com/DucManhPhan/J2EE/tree/master/src/Java_Core/Java%208/Functional%20Interfaces/predicate).
+In order to see how Predicate functional interface works, we can reference to [Predicate functional interface](https://github.com/gamethapcam/J2EE/tree/master/src/Java_Core/Java%208/Functional%20Interfaces/predicate).
 
 
 <br>

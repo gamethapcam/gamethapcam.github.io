@@ -73,7 +73,7 @@ How do we overcome these problems?
 
     - DockerFile is a script file that guide Docker how to build an image.
 
-        To be aware more about DockerFile, we can read about an article [How to build an image from DockerFile](http://ducmanhphan.github.io/2020-05-07-how-to-build-an-image-from-dockerfile).
+        To be aware more about DockerFile, we can read about an article [How to build an image from DockerFile](http://gamethapcam.github.io/2020-05-07-how-to-build-an-image-from-dockerfile).
 
     - Registry is a place that contains multiple images.
 

@@ -5,7 +5,7 @@ bigimg: /img/path.jpg
 tags: [Spring]
 ---
 
-Before discussing about Remember-Me mechanism in Spring, we should read about [The mechanism of Spring Security](https://ducmanhphan.github.io/2019-02-09-The-mechanism-of-spring-security) to understand the way that Spring Security does. 
+Before discussing about Remember-Me mechanism in Spring, we should read about [The mechanism of Spring Security](https://gamethapcam.github.io/2019-02-09-The-mechanism-of-spring-security) to understand the way that Spring Security does. 
 
 Then, we will find out about Remember-Me mechanism in Spring Security.
 
@@ -31,7 +31,7 @@ So, to solve this problem, Remember-Me is a convenient mechanism that remembers 
 <br>
 
 ## Remember-me mechanism 
-To understand Remember-Me mechanism deeper, we should read about this article: [The mechanism of Spring Security](https://ducmanhphan.github.com/2019-02-09-The-mechanism-of-spring-security).
+To understand Remember-Me mechanism deeper, we should read about this article: [The mechanism of Spring Security](https://gamethapcam.github.com/2019-02-09-The-mechanism-of-spring-security).
 
 Spring Security provides two implementation for Remember-Me:
 - Simple Hash-Based Token Approach: use hashing to preserve the security of cookie-based tokens.

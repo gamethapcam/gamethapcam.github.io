@@ -55,7 +55,7 @@ There are 4 parts in a URL:
 
 For example: 
 
-In the URL [https://ducmanhphan.github.io/2019-02-05-HTTP-protocol], the communication protocol is **HTTPS**; the hostname is **ducmanhphan.github.io**. 
+In the URL [https://gamethapcam.github.io/2019-02-05-HTTP-protocol], the communication protocol is **HTTPS**; the hostname is **gamethapcam.github.io**. 
 
 The port number was not specified in the URL, and takes on the default number, which is TCP port 80 for HTTP.
 

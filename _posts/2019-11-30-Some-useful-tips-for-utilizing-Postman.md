@@ -86,7 +86,7 @@ Let's get started.
 In our login request, we want to use ```post``` method to push json data that contains ```username``` and ```password``` to server. In this section, we will do below some steps:
 - Prepare data for this case.
 
-    We can refer to this [link](https://github.com/DucManhPhan/Learn-Nodejs/tree/master/pratice-common-node-modules/src/file/template-file) in github.
+    We can refer to this [link](https://github.com/gamethapcam/Learn-Nodejs/tree/master/pratice-common-node-modules/src/file/template-file) in github.
 
     After creating json data, we have the format of this file:
 

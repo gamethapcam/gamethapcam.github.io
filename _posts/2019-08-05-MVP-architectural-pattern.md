@@ -21,7 +21,7 @@ Let's get started.
 <br>
 
 ## Analysis Problem
-The caution that was born MVP pattern is as same as with [MVC pattern](http://ducmanhphan.github.io/2019-07-27-MVC-architecture-pattern). But MVP is used to prevent some drawbacks of MVC pattern such as:
+The caution that was born MVP pattern is as same as with [MVC pattern](http://gamethapcam.github.io/2019-07-27-MVC-architecture-pattern). But MVP is used to prevent some drawbacks of MVC pattern such as:
 - In MVC pattern, View and Model can be interact each other. So, we usually validate data from Model or use data logic in View. So, it makes automated unit testing difficult.
 - It is relevant to the security.
 

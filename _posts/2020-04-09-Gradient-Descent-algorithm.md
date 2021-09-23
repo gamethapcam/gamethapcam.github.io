@@ -22,7 +22,7 @@ In this article, we will learn how to use gradient descent algorithm. Let's get 
 
 ## Given problem
 
-In the previous article [Linear Regression](https://ducmanhphan.github.io/2020-04-02-Linear-regression/), we had visited the Linear Regression model and Normal Equation for solving the first degree equation with parameter $\mathbf{\theta}$. Then, we also had the disadvantages of Normal Equation:
+In the previous article [Linear Regression](https://gamethapcam.github.io/2020-04-02-Linear-regression/), we had visited the Linear Regression model and Normal Equation for solving the first degree equation with parameter $\mathbf{\theta}$. Then, we also had the disadvantages of Normal Equation:
 - The algorithm complexity for inversing matrix is $O(n^3)$. So, it takes so much time when we have the large input features.
 
 The large features of our data is normal case. So, what is other way to deal with this problem?
@@ -33,7 +33,7 @@ The large features of our data is normal case. So, what is other way to deal wit
 
 1. Explain the formula of Gradient Descent
 
-    In the previous article [Linear Regression](https://ducmanhphan.github.io/2020-04-02-Linear-regression/), we solved the derivation of equation $J(\mathbf{\theta}) = 0)$ to find the value of $\mathbf{\theta}$. But Gradient Descent algorithm uses the derivation of cost function $J(\mathbf{\theta})$ to know the tendency of direction of parameter $\mathbf{\theta}$. Then we will update the parameter $\theta_j$ based on the cost function's derivation with $\theta_j$.
+    In the previous article [Linear Regression](https://gamethapcam.github.io/2020-04-02-Linear-regression/), we solved the derivation of equation $J(\mathbf{\theta}) = 0)$ to find the value of $\mathbf{\theta}$. But Gradient Descent algorithm uses the derivation of cost function $J(\mathbf{\theta})$ to know the tendency of direction of parameter $\mathbf{\theta}$. Then we will update the parameter $\theta_j$ based on the cost function's derivation with $\theta_j$.
 
     Repeat until convergence:
 
@@ -66,7 +66,7 @@ The large features of our data is normal case. So, what is other way to deal wit
 
     $$\theta_j = \theta_j - \alpha \frac{\partial{J(\mathbf{\theta})}}{\partial{\theta_j}}$$ (1)
 
-    But, in the previous article [Linear Regression](https://ducmanhphan.github.io/2020-04-02-Linear-regression/), we have:
+    But, in the previous article [Linear Regression](https://gamethapcam.github.io/2020-04-02-Linear-regression/), we have:
 
     $$J(\mathbf{\theta}) = \frac{1}{2m} \sum\limits_{i=1}^{m}(h_\mathbf{\theta}(\mathbf{x}^{(i)}) - y^{(i)})^2$$
 

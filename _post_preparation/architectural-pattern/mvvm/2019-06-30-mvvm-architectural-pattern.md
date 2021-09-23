@@ -62,7 +62,7 @@ Below is the image about MVVP pattern.
 ## Code C++/Javascript
 You can refer to the following repository:
 
-[https://github.com/DucManhPhan/AutoCAD/tree/master/Draw_Balloon_NET](https://github.com/DucManhPhan/AutoCAD/tree/master/Draw_Balloon_NET)
+[https://github.com/gamethapcam/AutoCAD/tree/master/Draw_Balloon_NET](https://github.com/gamethapcam/AutoCAD/tree/master/Draw_Balloon_NET)
 
 <br>
 

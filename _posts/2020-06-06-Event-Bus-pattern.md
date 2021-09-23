@@ -22,7 +22,7 @@ tags: [Enterprise Pattern]
 
 ## Given problem
 
-In the section **Some problems with Command Bus pattern** of the article [Command bus pattern](https://ducmanhphan.github.io/2020-12-02-command-bus-pattern/), we discussed about their Command bus pattern's arduous and its solution. It is to use Event Bus pattern to decouple between the primary action and the secondary action in Command Bus pattern.
+In the section **Some problems with Command Bus pattern** of the article [Command bus pattern](https://gamethapcam.github.io/2020-12-02-command-bus-pattern/), we discussed about their Command bus pattern's arduous and its solution. It is to use Event Bus pattern to decouple between the primary action and the secondary action in Command Bus pattern.
 
 This way makes our code satisfy Single Responsibility Principle and extends our functionality in the future time.
 

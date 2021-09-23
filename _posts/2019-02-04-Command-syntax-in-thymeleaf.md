@@ -5,7 +5,7 @@ bigimg: /img/image-header/home-office-1.jpg
 tags: [Thymeleaf]
 ---
 
-In the previous [article](https://ducmanhphan.github.io/2019-02-07-Implementation-with-layout-in-thymeleaf), we have understood a few about utilizing layout with Thymeleaf. But it is not enough knowledege to write front-end easily.
+In the previous [article](https://gamethapcam.github.io/2019-02-07-Implementation-with-layout-in-thymeleaf), we have understood a few about utilizing layout with Thymeleaf. But it is not enough knowledege to write front-end easily.
 
 So, to dig into Thymeleaf, in this article, we will continue to learn some syntaxes such as conditional statement, loop statement, ... in Thymeleaf. 
 

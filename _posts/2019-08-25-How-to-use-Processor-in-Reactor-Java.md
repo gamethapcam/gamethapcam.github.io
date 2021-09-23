@@ -28,7 +28,7 @@ Since it is a publisher, we can create a processor and ```Subscribe``` to it. Mo
 
 ![](../img/Srping-webflux/reactive-architecture/publisher-subscriber-processor.png)
 
-In order to understand about processor deeper, we can refer to this [link](http://ducmanhphan.github.io/2019-10-01-What-is-Reactive-programming-in-Java).
+In order to understand about processor deeper, we can refer to this [link](http://gamethapcam.github.io/2019-10-01-What-is-Reactive-programming-in-Java).
 
 
 

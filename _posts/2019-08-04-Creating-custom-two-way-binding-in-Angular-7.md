@@ -5,7 +5,7 @@ bigimg: /img/image-header/tailor-1.jpg
 tags: [Angular]
 ---
 
-Before moving on this article about custom two way binding, we can read up on [Data binding in Angular](https://ducmanhphan.github.io/2019-08-03-Data-binding-in-Angular/). Then, we will dive into custom two way binding in Angular, and understand about the problems of two way binding, how to reduce it.
+Before moving on this article about custom two way binding, we can read up on [Data binding in Angular](https://gamethapcam.github.io/2019-08-03-Data-binding-in-Angular/). Then, we will dive into custom two way binding in Angular, and understand about the problems of two way binding, how to reduce it.
 
 Let's get started.
 
@@ -132,7 +132,7 @@ export class AppComponent {
 
 So, we can find that the ```value``` variable of AppComponent will bind to the ```counter``` properties get/set of ```CustomCounterComponent```. So, when ```counter``` is changed by something, it will be reflected to ```value``` of ```AppComponent```.
 
-Source code for this sample here: [https://github.com/DucManhPhan/Learn-Javascript/tree/master/src/Angular/src/custom-two-way-binding](https://github.com/DucManhPhan/Learn-Javascript/tree/master/src/Angular/src/custom-two-way-binding)
+Source code for this sample here: [https://github.com/gamethapcam/Learn-Javascript/tree/master/src/Angular/src/custom-two-way-binding](https://github.com/gamethapcam/Learn-Javascript/tree/master/src/Angular/src/custom-two-way-binding)
 
 - ```@Input()```
 

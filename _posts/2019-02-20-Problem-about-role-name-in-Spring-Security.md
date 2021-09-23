@@ -23,7 +23,7 @@ So, in this article, we will discuss some solutions for this permission problem.
 ## Problem's context
 In order to configure Spring Security, we will do all settings in ```configure()``` method in our Web configuration that inherited from ```WebSecurityConfigurerAdapter``` class, and get username, password, authorization from database in ```loadUserByUsername()``` method of ```UserDetailsServiceImpl``` class that inherited from ```UserDetailsService```.
 
-To get more information, we can visit this [link](https://ducmanhphan.github.io/2019-02-09-The-mechanism-of-spring-security).
+To get more information, we can visit this [link](https://gamethapcam.github.io/2019-02-09-The-mechanism-of-spring-security).
 
 ```java
 @Configuration

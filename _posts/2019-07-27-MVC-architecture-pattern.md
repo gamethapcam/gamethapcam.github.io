@@ -141,7 +141,7 @@ We can see that View and Model do not relate together. All actions between them 
 
 ## Code Python
 
-Source code about MVC pattern, we can referrence from this link [https://github.com/DucManhPhan/Design-Pattern/tree/master/Architectural-pattern](https://github.com/DucManhPhan/Design-Pattern/tree/master/Architectural-pattern)
+Source code about MVC pattern, we can referrence from this link [https://github.com/gamethapcam/Design-Pattern/tree/master/Architectural-pattern](https://github.com/gamethapcam/Design-Pattern/tree/master/Architectural-pattern)
 
 
 <br>

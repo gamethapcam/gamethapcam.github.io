@@ -524,7 +524,7 @@ tags: [Reactive Programming]
 
     - How to disconnect between Observable and Observer
 
-        When calling **Observable.subscribe()** method, normally RxJava will create an Subscription object to connect between Observable and Observer. To know more about this architecture, we can read about the following link [What is Reactive programming in Java](https://ducmanhphan.github.io/2019-12-01-What-is-Reactive-programming-in-Java/).
+        When calling **Observable.subscribe()** method, normally RxJava will create an Subscription object to connect between Observable and Observer. To know more about this architecture, we can read about the following link [What is Reactive programming in Java](https://gamethapcam.github.io/2019-12-01-What-is-Reactive-programming-in-Java/).
 
         ```java
         Subscription subscription = Observable.just("Hello", "world", "reactive", "programming")

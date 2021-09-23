@@ -93,7 +93,7 @@ But in this article, we will concentrate on the components of JPA.
 
     This class will provide some operations that satisfies ACID properties in RDBMS.
 
-    To know more about these properties of transaction, we will read an article [Understanding about ACID properties in database](https://ducmanhphan.github.io/2020-03-25-Understanding-about-ACID-properties-in-database/).
+    To know more about these properties of transaction, we will read an article [Understanding about ACID properties in database](https://gamethapcam.github.io/2020-03-25-Understanding-about-ACID-properties-in-database/).
 
 5. Query
 

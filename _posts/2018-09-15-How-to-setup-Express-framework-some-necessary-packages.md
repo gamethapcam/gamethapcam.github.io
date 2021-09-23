@@ -33,7 +33,7 @@ express name_project -e
 ```
 
 Parameter e is something that you want to use template engine javascript - EJS. 
-To find out some information about EJS, you can read about the article: [What is EJS?](https://ducmanhphan.github.io/2018-09-15-What-is-EJS/)
+To find out some information about EJS, you can read about the article: [What is EJS?](https://gamethapcam.github.io/2018-09-15-What-is-EJS/)
 
 At this moment, you have the directory that looks same as the below image. 
 

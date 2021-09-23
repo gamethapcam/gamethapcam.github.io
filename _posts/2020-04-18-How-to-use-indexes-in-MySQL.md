@@ -5,7 +5,7 @@ bigimg: /img/image-header/home-office-1.jpg
 tags: [Database, MySQL]
 ---
 
-To improve the speed of accessing a database, one way that you can think about is to use index. The internal detail of using indexes is relevant to the B+ Tree. To understand deeply about using indexes, you can practice to make B+ tree at this [link](https://ducmanhphan.github.io/2019-01-22-B+-tree).
+To improve the speed of accessing a database, one way that you can think about is to use index. The internal detail of using indexes is relevant to the B+ Tree. To understand deeply about using indexes, you can practice to make B+ tree at this [link](https://gamethapcam.github.io/2019-01-22-B+-tree).
 
 Using too many indexes is to make your database that is accessed data slow down when utilizing some operations such as insertion, update, deletion. In this article, we will learn how to use index correctly in MySQL.
 
@@ -25,15 +25,15 @@ There are different types of indexes in relational theory. Each index is designe
 Belows are some types of indexes that we need to know.
 - B-Tree index
 
-    To know more about B-Tree Index in MySQL, we can read our article [Understanding about B-Tree Index in RDBMS](http://ducmanhphan.github.io/2020-10-15-Understanding-about-B-Tree-index-in-RDBMS).
+    To know more about B-Tree Index in MySQL, we can read our article [Understanding about B-Tree Index in RDBMS](http://gamethapcam.github.io/2020-10-15-Understanding-about-B-Tree-index-in-RDBMS).
 
 - Clustered index
 
-    To know more about Clustered Index in MySQL, we can read our article [Understanding about Clustered Index in RDBMS](http://ducmanhphan.github.io/2020-04-12-Understanding-about-clustered-index-in-RDBMS).
+    To know more about Clustered Index in MySQL, we can read our article [Understanding about Clustered Index in RDBMS](http://gamethapcam.github.io/2020-04-12-Understanding-about-clustered-index-in-RDBMS).
 
 - Hash index
 
-    To know more about Hash Index in MySQL, we can read our article [Understanding about Hash Index in RDBMS](http://ducmanhphan.github.io/2020-10-20-Understanding-about-Hash-index-in-RDBMS).
+    To know more about Hash Index in MySQL, we can read our article [Understanding about Hash Index in RDBMS](http://gamethapcam.github.io/2020-10-20-Understanding-about-Hash-index-in-RDBMS).
 
 - Other index types
 

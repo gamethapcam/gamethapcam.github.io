@@ -221,7 +221,7 @@ Let's get started.
 
 Refer:
 
-[ducmanhphan.github.io/2019-01-24-Understanding-about-project-lifecycle-in-Maven](ducmanhphan.github.io/2019-01-24-Understanding-about-project-lifecycle-in-Maven)
+[gamethapcam.github.io/2019-01-24-Understanding-about-project-lifecycle-in-Maven](gamethapcam.github.io/2019-01-24-Understanding-about-project-lifecycle-in-Maven)
 
 [http://maven.apache.org/archetype/maven-archetype-plugin/examples/create-multi-module-project.html](http://maven.apache.org/archetype/maven-archetype-plugin/examples/create-multi-module-project.html)
 

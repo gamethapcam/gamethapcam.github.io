@@ -495,7 +495,7 @@ Belows are some cases that the Persistence Context is synchronized with the data
 
 Refer:
 
-[https://ducmanhphan.github.io/2020-02-16-the-architecture-of-JPA/](https://ducmanhphan.github.io/2020-02-16-the-architecture-of-JPA/)
+[https://gamethapcam.github.io/2020-02-16-the-architecture-of-JPA/](https://gamethapcam.github.io/2020-02-16-the-architecture-of-JPA/)
 
 [https://medium.com/@superjunior.dev/hibernate-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-h%C3%A0m-save-persist-update-merge-saveorupdate-c1140663bc59](https://medium.com/@superjunior.dev/hibernate-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-h%C3%A0m-save-persist-update-merge-saveorupdate-c1140663bc59)
 

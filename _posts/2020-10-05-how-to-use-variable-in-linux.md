@@ -22,7 +22,7 @@ tags: [Linux]
 
 ## How to define variables
 
-To understand the basic thing of variables in Linux, we can visit the article [How to write simple shell scripts in Linux](https://ducmanhphan.github.io/2019-11-02-How-to-write-simple-scripts-in-linux/).
+To understand the basic thing of variables in Linux, we can visit the article [How to write simple shell scripts in Linux](https://gamethapcam.github.io/2019-11-02-How-to-write-simple-scripts-in-linux/).
 
 
 1. Some types of variables

@@ -100,7 +100,7 @@ RestTemplate simplifies communication with HTTP services, and program code can p
 
 ## Source code
 
-In order to understand how to implement code by using Spring RestTemplate, we can check out source code in [Spring RestTemplate Utils](https://github.com/DucManhPhan/J2EE/tree/master/src/Utils/spring-resttemplate-utils).
+In order to understand how to implement code by using Spring RestTemplate, we can check out source code in [Spring RestTemplate Utils](https://github.com/gamethapcam/J2EE/tree/master/src/Utils/spring-resttemplate-utils).
 
 <br>
 

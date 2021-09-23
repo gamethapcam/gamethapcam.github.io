@@ -166,7 +166,7 @@ Before jumping into Defensive programming, we need to read up on the traditional
 
     - Do not use null references.
 
-    In this way, we can learn from the article [Working with Nulls in Java](https://ducmanhphan.github.io/2020-02-01-Working-with-Nulls-in-Java/).
+    In this way, we can learn from the article [Working with Nulls in Java](https://gamethapcam.github.io/2020-02-01-Working-with-Nulls-in-Java/).
 
 7. Rich domain models
 

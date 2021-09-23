@@ -50,7 +50,7 @@ tags: [OOP]
     - Message Passing
     - Encapsulation
 
-        About encapsulation concept, we can read up on the article [Encapsulation in Object Oriented Programming](https://ducmanhphan.github.io/2019-12-19-encapsulation-in-object-oriented-programming)
+        About encapsulation concept, we can read up on the article [Encapsulation in Object Oriented Programming](https://gamethapcam.github.io/2019-12-19-encapsulation-in-object-oriented-programming)
 
     - Dynamic Binding
 
