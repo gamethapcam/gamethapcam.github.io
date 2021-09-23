@@ -1,0 +1,25 @@
+I need to execute some amount of tasks 4 at a time, something like this:
+
+ExecutorService taskExecutor = Executors.newFixedThreadPool(4);
+while(...) {
+    taskExecutor.execute(new MyTask());
+}
+//...wait for completion somehow
+How can I get notified once all of them are complete? For now I can't think about anything better than setting some global task counter and decrease it at the end of every task, then monitor in infinite loop this counter to become 0; or get a list of Futures and in infinite loop monitor isDone for all of them. What are better solutions not involving infinite loops?
+
+Thanks.
+
+483
+
+Basically on an ExecutorService you call shutdown() and then awaitTermination():
+
+ExecutorService taskExecutor = Executors.newFixedThreadPool(4);
+while(...) {
+  taskExecutor.execute(new MyTask());
+}
+taskExecutor.shutdown();
+try {
+  taskExecutor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
+} catch (InterruptedException e) {
+  ...
+}
