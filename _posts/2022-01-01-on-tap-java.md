@@ -1,4 +1,4 @@
-<div class="goto-wrapper mom_list
+<div class="goto-wrapper mom_list">
 <ul id="go-to-detail">
 <li class="list-goto-1">
 <a href="#goto-h2-1">Khái niệm về lập trình hướng đối tượng trong java</a>
