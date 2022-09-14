@@ -6,7 +6,9 @@
             <p> <strong>có 4 tính chất:</strong> </p>
             <img src="https://viettuts.vn/images/java/cac-tinh-chat-cua-oops.png" alt="các tính chất của oops">
             <ul>
-                <li><a href="#goto-h3-1">Đối tượng (Object)</a></li>
+                <li><a href="#goto-h3-1">Đối tượng (Object)</a>
+                <p> Tất cả những thực thể có trạng thái và hành vi được biết đến như là một đối tượng. Ví dụ: bàn, ghế, bút chì, xe dạp, ô tô... </p>
+                </li>
                 <li><a href="#goto-h3-2">Lớp (Class)</a></li>
                 <li><a href="#goto-h3-3">Kế thừa (Inheritance)</a></li>
                 <li><a href="#goto-h3-4">Đa hình (Polymorphism)</a></li>
