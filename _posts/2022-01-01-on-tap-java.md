@@ -2,6 +2,9 @@
     <ul id="go-to-detail">
         <li class="list-goto-1">
             <a href="#goto-h2-1">Khái niệm về lập trình hướng đối tượng trong java</a>
+            <p><strong> Lập trình hướng đối tượng (OOP-Object-Oriented Programming)</strong> là một phương pháp hay mô hình giúp tăng năng suất, đơn giản hóa việc bảo trì, dễ dàng mở rộng trong thiết kế phần mềm bởi việc cung cấp một vài khái niệm như: </p>
+            <p> <strong>có 4 tính chất:</strong> </p>
+            <img src="/images/java/cac-tinh-chat-cua-oops.png" alt="các tính chất của oops">
             <ul>
                 <li><a href="#goto-h3-1">Đối tượng (Object)</a></li>
                 <li><a href="#goto-h3-2">Lớp (Class)</a></li>
