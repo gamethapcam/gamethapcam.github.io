@@ -31,6 +31,9 @@
         </li>
         <li class="list-goto-2">
             <a href="#goto-h2-2">Thế mạnh của OOPs so với ngôn ngữ lập trình hướng thủ tục</a>
+<p> 1) Lập trình hướng đối tượng giúp việc phát triển và bảo trì dễ dàng hơn. Trong khi phương pháp lập trình hướng thủ tục là không dẽ dàng quản lý khi code lớn. </p>
+<p> 2) Lập trình hướng đối tượng có tính năng ẩn dấu thông tin, trong khi hướng thủ tục có thể truy cập dữ liệu toàn cục ở bất kỳ nơi nào </p>
+<p> 3) Lập trình hướng đối tượng cung cấp khả năng mô phỏng sự kiện thực tế hiệu quả hơn. </p>
         </li>
     </ul>
 </div>
