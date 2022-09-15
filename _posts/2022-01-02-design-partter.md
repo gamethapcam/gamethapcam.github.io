@@ -2,13 +2,6 @@
                             <h1 class="title mb-0">
                                 <a href="#">Giới thiệu Design Pattern trong Java và tìm hiểu các loại Design Pattern</a>
                             </h1>
-                            <div class="reaction d-flex">
-                                <p class="created_at pr-4"><i class="far fa-calendar-alt text-warning"></i> 12/11/2021 13:27</p>
-                                
-                            </div>
-                            <div>
-                                <p class="font-weight-bold">Design Pattern trong Java là giải pháp được kiểm chứng rõ ràng nhằm giải quyết một vấn đề cụ thể bằng cách dùng một số mô tả hoặc khuôn mẫu. Có nhiều loại Design Pattern trong Java đi kèm cùng các danh mục phụ của chúng. Chúng ta sẽ cùng tìm hiểu kỹ càng trong bài viết này bạn nhé!</p>
-                            </div>
                             <div class="content">
                                 
 
@@ -16,7 +9,7 @@
 
 
 <div class="mce-toc text-bold" contenteditable="false">
-<div contenteditable="true">Mục lục</div>
+
 <ul>
 <li><a href="#design-pattern-trong-java-la-gi">Design Pattern trong Java là gì?</a></li>
 <li><a href="#cac-loai-design-pattern-trong-java">Các loại Design Pattern trong Java</a></li>
@@ -83,26 +76,3 @@
 </ul>
 <h2 id="khi-nao-chung-ta-nen-su-dung-java-design-patterns"><strong>Khi nào chúng ta nên sử dụng Java Design Patterns</strong></h2>
 <p><span style="font-weight: 400;">Chúng ta nên sử dụng design pattern trong giai đoạn phân tích và yêu cầu SDLC ( Vòng đời phát triển phần mềm). Chúng ta có thể sử dụng chung để dễ dàng phân tích và giai đoạn yêu cầu của SDLC bằng cách cung cấp thông tin dựa trên kinh nghiệm thực hành trước đó.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Kết luận: Trong bài viết này, chúng ta đã tìm hiểu về Design pattern trong Java cùng các ưu điểm của chúng. Hy vọng bạn đã nắm rõ các kiểu design Pattern trong Java và cách sử dụng chúng </span><span style="font-weight: 400;">và đừng quên tìm hiểu thêm về Java và các ngôn ngữ lập trình khác qua các </span><a href="/"><span style="font-weight: 400;">khóa học lập trình</span></a><span style="font-weight: 400;"> tại T3H.</span></p>
-
-
-                            </div>
-                            <div class="mt-4">
-                                <div class="sharethis-inline-share-buttons st-right  st-inline-share-buttons st-animated" id="st-1"><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
-  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
-  
-</div><div class="st-btn" data-network="twitter" style="display: inline-block;">
-  <img alt="twitter sharing button" src="https://platform-cdn.sharethis.com/img/twitter.svg">
-  
-</div><div class="st-btn" data-network="email" style="display: inline-block;">
-  <img alt="email sharing button" src="https://platform-cdn.sharethis.com/img/email.svg">
-  
-</div><div class="st-btn" data-network="sharethis" style="display: inline-block;">
-  <img alt="sharethis sharing button" src="https://platform-cdn.sharethis.com/img/sharethis.svg">
-  
-</div><div class="st-btn st-last" data-network="linkedin" style="display: inline-block;">
-  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
-  
-</div></div>
-                            </div>
-                        </div>
