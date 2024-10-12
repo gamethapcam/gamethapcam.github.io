@@ -1,4 +1,5 @@
 Mô hình Redis Replication/ Cluster / HA
+
 1 . Mô hình đơn:
 <p><img src="https://images.viblo.asia/a45a1ed2-1551-4ee7-af3a-f52d2968239a.PNG" ></p>
 
@@ -19,7 +20,7 @@ Phân biệt:
 - Vấn đề nằm ở chỗ khi lượng Ram cần dùng để lưu trữ Data của redis > vượt quá Ram của Server đang chạy. Khi đó ta sẽ bắt đầu chia nhỏ dữ liệu ra để lưu ở "nhiều server" khác nhau. Khi client gọi vào, redis-cluster sẽ hướng dẫn truy xuất vào chính xác node nào có dữ liệu.
 
 2. Mô hình Master-Slave hoặc 1 Master và nhiều SLAVE
-<p><img src="https://images.viblo.asia/a45a1ed2-1551-4ee7-af3a-f52d2968239a.PNG" ></p>
+<p><img src="https://images.viblo.asia/2f710345-8a48-4543-ac0f-1e3a4f6033c2.PNG" ></p>
 
 Ưu điểm: 
 - Mô hình 1Master-1Slave hoặc 1Master-(N)Slave sẽ đảm bảo dữ liệu luôn luôn được dự phòng. 
