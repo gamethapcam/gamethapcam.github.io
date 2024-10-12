@@ -1,6 +1,6 @@
 Mô hình Redis Replication/ Cluster / HA
 1 . Mô hình đơn:
-
+<p><img src="https://images.viblo.asia/a45a1ed2-1551-4ee7-af3a-f52d2968239a.PNG" ></p>
 
 - Ưu điểm: 
 Tiết kiệm chi phí, phù hợp với môi trường nhỏ. Hiệu suất cao
